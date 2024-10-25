@@ -10,3 +10,7 @@
     <!-- Inline css  -->
     <h1 style="color: green; font-style: italic">Hello Earth!</h1>
 ```
+
+
+##
+- Inline > Internal and External CSS
