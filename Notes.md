@@ -12,5 +12,6 @@
 ```
 
 
-##
-- Inline > Internal and External CSS
+## Order in CSS
+- Inline
+- Internal and External CSS

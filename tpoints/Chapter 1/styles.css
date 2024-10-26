@@ -1,5 +1,43 @@
-h1{
-    color: purple;
-    font-style: italic;
+*{
+    box-sizing: border-box;
+    /* background-color: rgb(218, 218, 218); */
+}
+
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    /* font-style: italic; */
     font-size: 46px;
+}
+
+.my-paragraph{
+    font-size: 30px;
+    text-align: justify;
+    /* width: 10px; */
+}
+
+#special-text{
+    font-style: italic;
+    color: red;
+    font-weight: bold;
+}
+
+a {
+    color: #000;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.first-div {
+    background-color: brown;
+    height: 200px;
+    width: 300px;
+    color: #fff;
+}
+#second-div {
+    background-color: blueviolet;
+    height: 200px;
+    width: 300px;
+    color: #fff;
 }
